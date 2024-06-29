@@ -1,4 +1,4 @@
-new_friends = ['elene aribovi',"nikoloz tsereteli","luka matcaberidze"]
+new_friends = ['elene gharibovi',"nikoloz tsereteli","luka matcaberidze"]
 
 
 def call_friends():
